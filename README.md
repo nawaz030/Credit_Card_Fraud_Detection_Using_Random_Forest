@@ -59,7 +59,8 @@ The dataset contains credit card transaction records used for fraud detection an
 * Fraud/Non-Fraud labels
 
 > Note: The dataset used in this project is for educational and research purposes.
-
+The complete source code for this project is maintained in a private repository and is not publicly available.
+This repository is intended for project presentation, documentation, and portfolio purposes only.
 ---
 
 # Project Workflow
